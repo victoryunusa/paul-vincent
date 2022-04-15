@@ -1260,12 +1260,14 @@ label.error {
 }
 
 .slide-intro-man {
+  background-image: url("../img/main-2.png");
   background-position: 50% 50%;
 }
 
 .slide-intro-man2 {
   width: 36.82291667%;
   height: 91.01851852%;
+  background-image: url("../img/bg-personal-intro-man2.png");
   background-size: contain;
   background-position: 0 100%;
   bottom: 0;
